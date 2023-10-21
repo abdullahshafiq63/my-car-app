@@ -1,0 +1,17 @@
+{
+  "electrical": {
+    "make": "Toyota Electrical",
+    "model": "Camry",
+    "year": 2022
+  },
+  "wheels": {
+    "make": "Honda Bike 2 Wheels",
+    "model": "125 cc",
+    "year": 2023
+  },
+  "sport": {
+    "make": "Honda Sport",
+    "model": "CR-V",
+    "year": 2020
+  }
+}
